@@ -37,4 +37,4 @@ jobs:
           existing_bucket_name: elasticbeanstalk-eu-central-1-983021526080
           version_label: "docker-app-${{ steps.format-time.outputs.replaced }}"
           region: eu-central-1
-          deployment_package: deploy${{ steps.format-time.outputs.replaced }}.zip
+          deployment_package: deploy.zip
