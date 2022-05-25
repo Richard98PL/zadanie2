@@ -7,7 +7,7 @@ Użyto następujących serwisów
 - travis.ci
 - github (github actions)
 
-Deployment:
+Deployment (5-8minutes):
 =============================
  travis.ci -> travis.yml
  github actions -> .github/workflows/rogalski.yml
@@ -37,4 +37,6 @@ Results
 ![image](https://user-images.githubusercontent.com/41301282/170295677-1ee4490d-78d2-41f1-bbd7-80ce60668c48.png)
 
 <img width="1409" alt="image" src="https://user-images.githubusercontent.com/41301282/170297553-a377025a-519c-4bdd-9dc7-4632b4960818.png">
+
+![image](https://user-images.githubusercontent.com/41301282/170308643-b4a21271-3ffc-4766-9a3c-fb0aef880f36.png)
 
