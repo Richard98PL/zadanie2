@@ -1,15 +1,15 @@
-Link do aplikacji na aws: http://rogalskiawsapp.eu-central-1.elasticbeanstalk.com/
+Link do aplikacji na aws: http://rogalskiawsapp.eu-central-1.elasticbeanstalk.com/ <br/>
 Na konsole latwiej wejsc tedy: https://eu-central-1.console.aws.amazon.com/elasticbeanstalk/home?region=eu-central-1#/welcome
 
 Użyto następujących serwisów
 =============================
-- AWS
+- AWS 
 - travis.ci
 - github (github actions)
 
 Deployment (5-8minutes):
 =============================
- travis.ci -> travis.yml
+ travis.ci -> travis.yml <br/>
  github actions -> .github/workflows/rogalski.yml
  
 Step by step
