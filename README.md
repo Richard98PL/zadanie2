@@ -51,3 +51,4 @@ GitHub Ations ma zbudować obraz aplikacji i przesłać go na repozytorium Docke
 Dodano standardowe, znane juz linie w pliku yaml oraz skonfigurowano secret keys w settingach <br/>
 ![image](https://user-images.githubusercontent.com/41301282/170437827-b0a92641-8190-4cfd-bda7-0fc8c5316051.png)
 
+![image](https://user-images.githubusercontent.com/41301282/170442247-521f64ea-a6d0-4f58-a53b-03e0839d4b4c.png)
