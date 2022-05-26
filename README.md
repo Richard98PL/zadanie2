@@ -6,6 +6,7 @@ Użyto następujących serwisów
 - AWS 
 - travis.ci
 - github (github actions)
+- dockerhub
 
 Deployment (5-8minutes):
 =============================
@@ -41,4 +42,12 @@ Results
 <img width="1349" alt="image" src="https://user-images.githubusercontent.com/41301282/170308827-c936b86f-57a4-445f-ae0d-f40421409d55.png">
 
 ![image](https://user-images.githubusercontent.com/41301282/170308643-b4a21271-3ffc-4766-9a3c-fb0aef880f36.png)
+
+CZĘŚĆ DODATKOWA
+===============
+
+GitHub Ations ma zbudować obraz aplikacji i przesłać go na repozytorium DockerHub.
+===================
+Dodano standardowe, znane juz linie w pliku yaml oraz skonfigurowano secret keys w settingach <br/>
+![image](https://user-images.githubusercontent.com/41301282/170437827-b0a92641-8190-4cfd-bda7-0fc8c5316051.png)
 
