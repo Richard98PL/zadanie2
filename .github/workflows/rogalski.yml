@@ -56,4 +56,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: ryszardfullstack/docker_task:tagname
+          tags: ryszardfullstack/zadanie2:tagname
